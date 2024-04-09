@@ -17,7 +17,7 @@ This is the backend application for the Product System project. It provides REST
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Sonali-Mali93/
+git clone https://github.com/Sonali-Mali93/Backend-ProductApp.git
 
 ```
 2. Go to the project directory
